@@ -15,14 +15,14 @@ import {
 } from 'lucide-react';
 
 // --- IMPORTANT: REPLACE THESE WITH YOUR ACTUAL FIREBASE KEYS ---
-const firebaseConfig = {
-  apiKey: "AIzaSyBJqLqX6q7rqC1Gm_-trY0fXV7Bhb2mE_k",
-  authDomain: "connect-c39b2.firebaseapp.com",
-  projectId: "connect-c39b2",
-  storageBucket: "connect-c39b2.firebasestorage.app",
-  messagingSenderId: "1023532898264",
-  appId: "1:1023532898264:web:7fe0950fce5b3fb1d144ad",
-  measurementId: "G-3QVWERF3VS"
+const firebaseConfig ={
+  apiKey: "AIzaSyDMusdWzcFx8ivo-0sxVchFmlcv2Zs0yEc",
+  authDomain: "connect-407ab.firebaseapp.com",
+  projectId: "connect-407ab",
+  storageBucket: "connect-407ab.firebasestorage.app",
+  messagingSenderId: "963977780259",
+  appId: "1:963977780259:web:73859adb021393f281a596",
+  measurementId: "G-3T1TGFMWG8"
 };
 
 const app = initializeApp(firebaseConfig);
