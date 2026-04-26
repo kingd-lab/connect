@@ -16,12 +16,13 @@ import {
 
 // --- IMPORTANT: REPLACE THESE WITH YOUR ACTUAL FIREBASE KEYS ---
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY", 
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBJqLqX6q7rqC1Gm_-trY0fXV7Bhb2mE_k",
+  authDomain: "connect-c39b2.firebaseapp.com",
+  projectId: "connect-c39b2",
+  storageBucket: "connect-c39b2.firebasestorage.app",
+  messagingSenderId: "1023532898264",
+  appId: "1:1023532898264:web:7fe0950fce5b3fb1d144ad",
+  measurementId: "G-3QVWERF3VS"
 };
 
 const app = initializeApp(firebaseConfig);
